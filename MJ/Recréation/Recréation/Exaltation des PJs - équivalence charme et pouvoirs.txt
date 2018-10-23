@@ -1,0 +1,76 @@
+Ne pas oublier les historiques dans l'affaire!
+
+Loup - Garou :
+* Bénéfices des garous:
+	* Entrer en frénésie: ce n'est qu'une version très édulcorée de ce que peux devenir la furie d'un guerrier de Luna. Prendre le charme Relentless Lunar Fury et des charmes d'endurance
+	* Actions supplémentaires : un certain nombre de charmes de dextérité permettent d'avoir soit des actions beaucoup plus rapide, soit des actions supplémentaires.
+	* Forme de rat : voir les règles de la chasse sauvage...
+	* Forme de Crynos : Deadly beastman transformation est en soit, peut-être un peu moins puissant. Mais rajoutez quelques charmes avec le mot-clé "gift", et on deviendra copain. Sans compter l'utilisation des prouesses physiques, bien sûr.
+	* Ne pas se faire assomer, continuer à combattre malgré les blessures : Steadfast Yeddim Meditation et Unstoppable Juggernaut Incarnation, p.157.
+	* Le Délire : un charme équivalent reste à construire, mais il semble facile à mettre en place. Avec le mot-clé Gift, pour qu'il dure tant que Deadly beastman transformation est activé.
+	* Armes naturelles infligeant de l'aggravé : Les sources d'aggravé sont plus rares dans Exalté que dans le monde des ténèbres. Claws of the silver moon, p. 145 améliore les armes naturelles du lunaire. On peut imaginer un charme sacré améliorant le précédant pour transformer les attaques naturelles du lunaire en attaque aggravé contre les créatures des ténèbres.
+* Bénéfices des ratkins
+	* preceptions améliorées et vision de nuit : les bonnes trasformations fourniront toujours ce genre d'avantage. Sinon, les charmes de perception des lunaires sont très chouettes.
+	* Orientation dans les tunnels : Watchful Spider Stance, p.182, permet ça dans un territoire que le lunaire possède. Sinon, c'est un charme à créer.
+	* Immunité aux maladies et sang empoisonnées : les exaltés sont très peu sensibles aux maladies en général. Pour plus de protection, voir les charmes de "substance", page 162.
+* Bénéfice des félins
+
+
+Dons : les anciens dons des garous passent maintenant dans la catégories de la sorcellerie naturelle. Celle-ci s'augmente comme les dons, en améliorant sa renommée dans le royaume des esprits.
+
+Momie :
+	* Bénéfice d'être Kher-Minu : équivalent (en moins bien) de la VD de parade et de la VD d'esquive.
+	* Perception des émotions : Technique de l'oeil du courtisan, p.235 est assez efficace, commme l'ensemble des charmes d'investigation.
+	* Perception de la mort, des imperfections, en forme spirituelle : non remplacée, car la forme spirituelle de la momie n'existe plus.
+	* Résistance aux drogue : le trait résistance des éxaltés fait mieux.
+	* Résurection : le seul pouvoir que les pjs ne pourront jamais - jamais - avoir, de quelque manière que ce soit.
+	* le Voile : remplacer avantageusement par Majesté Rayonnante et Apparition Teriffiante et glorieuse, p.223.
+*Bénéfices de l'Equilibre :
+	* Nécessité de suivre la voie de Maat : le personnage n'est obligé de suivre la voie de justice de quiconque, simplement de lui-même.
+	* Volonté de fer : la quintessence se rajoute naturellement à la VDM.
+	* Annuler la vraie magie :
+	* Eloignement des créatures surnaturelles : les charmes Attaque Tranche-Esprit et Diagramme de Répulsion des Esprits sont assez efficace pour faire ça.
+	* Effet du sang des momies sur les vampires : un super charme à développer...
+
+Hekau : la nature de la momie ayant fondamentalement changé, les hekau ne lui sont plus disponible. Mais un charme permettant au solaire de transformer son corps en momie pourrait être envisageable...
+
+Démon :
+	* Tourment : le personnage est maintenant délivré des affres de ce qu'il a subi et fait subir tout au long des ères.
+	* Soin par la Foi : 
+	* Immunité au contrôle mental : Le personnage peux dépenser des points de volontés pour resufser le contrôle par autrui. Sinon, les charmes de force d'âme (aka integrity) sont aussi très bien.
+	* Resistance aux illusions : La VDM, la volonté ou les charmes de perception sont assez redoutables à cet effet.
+	* Immunité à la possession : Comme tout exalté, le personnage est maintenant immunisé à la possession.
+	* Mes noms ont des pouvoirs : Les effets liés au nom n'ont pas d'équivalent directs chez les exaltés, mais des sortilèges (assez puissant) pourraient recréer ces avantages.
+	* Conscience surnaturelle : la psychokinésie n'est pas un pouvoir inné chez les solaires. Mais cela peut représenter un charme d'Occultisme (deal avec les esprits mineurs du lieux) ou d'investigation (amélioration de Méthode d'Observation Astucieuse, p.234).
+* Forme Apocalyptique : Il n'existe pas de charme qui fournissent tel quel tous les pouvoirs de la forme apocaplyptique - on peut la voir comme une préfiguration de l'existence du solaire. Mais les améliorations de caractéristiques peuvent être remplacées par des prouesses avec avantages, tandis que Procédé de Bouleversement du Coeur (p.224), les charmes de Furtivité ou d'Investigation recréeront facilement ses autres avantages.
+* Savoirs démoniaques: Les savoirs démoniaques ressemblent pour beaucoup à l'ancienne sorcellerie des solaires - en moins bien et en plus cher. Pour montrer cette antique facilité à manier les concepts du monde, Nina commencera gratuitement avec sorcellerie du cercle d'émeraude.
+	* Transfiguration : Le savoir sur la transfiguration n'est plus possible stricto sensu pour un solaire - la manipulation de sa propre chair n'est plus dans son répertoire. Cependant, il lui est facile de donner d'excellentes illusion de transformation. La prouesse de Larcin et les charmes Déguisement Infaillible et Impénétrable et Miroir Parfait donnent à eux trois bien plus que les quatre premiers savoir de Transfiguration. Le cinquième est stricto sensu hors de portée des solaires, malheureusement, même si une sorcellerie puissante pourrait peut-être le contrefaire.
+	* Désir : La manipulation du désir des personnes qu'ils cotoyent est une spécialité des solaires. Que le PJ cherche parmi la dizaine de charmes qui fait exactement ceci...
+
+
+Vampire D'orient :
+* Cohabitation du Hun et du Po
+	* Sens aiguisé : les Charmes Technique du (Sens) Affûté sont extrêmement efficaces.
+	* Parler avec un esprit : Oeil de Détection des esprits.
+	* Nature Feu et nature Vent : Les désavantages de ces natures n'ontp plus à être subies par l'exalté. Mais les charmes Foyer de Fureur Combative et Âme du Guerrier Assoifée de Sang (p.229) permettent à l'ancien vampire qui le souhaite d'en émuler les effets si il le souhaite.
+	* Résistance au contrôle mental : elle est naturellement bien plus forte, mais des charmes de Force d'âme tel que Défense du Lion Vertueux peux lui servir si il souhaite encore renforcer cette faculté
+	* Arts démons et Chi démoniaque : les capacités de combat des solaires dans leur ensemble sont bien plus efficace et élaboré que les arts démons; et sans l'inconvénient du double maléfique.
+* Cohabitation du Yin et du Yang
+	* Vision de la mort : Ce pouvoir regroupe de nombreux effets provenant de nombreux champs d'application différents - Artisanat, Médecine et Art Martiaux. Le seul pouvoir qui les regroupe est la Nécromancie - un champ d'application pas très cool...
+	* Vision de la vie  : Les charmes d'investigation ou de Savoir-vivre permettent des effets plus puissant de ce charme.
+	* Vision des esprits : le charme Oeil de détection des esprits fait très bien l'affaire (et permet de voir tous les types d'esprit).
+	* Elixir de Vie : Le charme techique de Soin des Blessure fait très bien l'affaire; il nécessite la prouesse de médecine.
+* Disciplines
+
+
+Mage : 
+	* Absence d'avantages surnaturelles : le mage possède maintenant tout les avantages d'être exalté
+
+Vraie Magie : la vraie magie continue à être pratiquable par le mage, dans les restrictions suvantes:
+	* Paradoxe : le paradoxe est avant tout un effet politique, géré par le possesseur du métier à tisser. Des réactions très différentes sont à prévoir, selon que CQVESN (renforcement des règles maussades de la réalité), les vierges (renforcement des règles de Création) ou bien que le métier se possède lui-même (statu quo dans chacune des zones de réalité différentes).
+	* Cibles trop réelles : les cibles trop réelles, comme les parties de Recréation, d'autres Yozis suffisament réveillés ou leurs sbires les plus puissants, mais évidemment le sidéral lui-même, ses compagnons, bref, tous les autres lieux et/ou créatures passés sur les règles d'exaltés ne peuvent plus être la cible de la Vraie Magie. De plus, ces mêmes sujets peuvent décider de défier un effet de modelage. Ils lancent alors leur quintessence en opposition au jet de lancement de sort du sidéral, qui n'aura droit qu'à la différence de leurs deux jets comme succès.
+	* Sphère de quintessence : Ses effets de niveaux 1 (respirer de la quintessence, sentir les lieux de pouvoir, absorber de la quintessence) sont en fait disponibles à tous les exaltés.
+
+Astrologie : les vierges ayant perdus le métier à tisser, les effets de l'Astrologie Sidérale ne sont pas à la portée des Sidéraux. Tant que cet état de fait perdurera, ils en sont réduits à lire l'avenir tel qu'il est tracé par son possesseur. Si ils parvenaient à le libérer ou au moins à le contacter, ils pourraient renouer avec l'astrologie Sidéral comme auparavant, avec quelques changements selon le propriétaire du métier.
+	* Zone d'effet : l'Astrologie a effet sur toute les régions que contrôlent les vierges, car leur raison d'être lui est trop liée pour qu'elle l'évite. Cependant, si les vierges récupèrent le métier, alors l'Astrologie n'aura effet QUE sur les zones que les vierges contrôlent et sur Autochton, car il est facile pour les autres Puissances d'en refuser les effets.
+	* Pétitions : en raison de la réduction à peau de chagrin de l'administration céleste et des services qui auront été rendu par les PJs aux ananasis et aux vierges, un blanc-seing à durée indéterminée est fourni au sidéral du groupe, qui équivaut à une prière accomodée avec une pétition exemplaire pour construire des Destinées. Qu'il l'utilise avec sagesse.

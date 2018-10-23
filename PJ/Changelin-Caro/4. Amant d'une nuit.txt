@@ -1,0 +1,16 @@
+Amant d'une nuit (••••)
+Le changelin cible une personne qui le prendra pour son amant, oubliant tout ce qui pourrait lui sembler illogique.
+Cost: 1 Glamour
+Dice Pool: Wyrd + Intimidation + Resolve
+Action: Instant
+Catch: 
+
+Roll Results
+Dramatic Failure:
+
+Failure:
+
+Success:
+
+Suggested Modifiers
+Modifier Situation
