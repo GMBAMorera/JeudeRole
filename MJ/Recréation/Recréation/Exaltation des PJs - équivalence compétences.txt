@@ -1,6 +1,6 @@
 Archerie 'aka Tir'		 <- Arc ; Armes à Feu ; Armes à Energie ; Armes de Guerre : toutes les armes du fantassin.
 Armes de Jet 'aka Ballistique'	 <- Frondes ; Couteaux (lancer) ; grenades ; Mortiers ; canon : toutes les armes d'artillerie.
-Arts Martiaux			 <- Bagarre ; Arts martiaux ; Do.
+Arts Martiaux			 <- Bagarre ; Arts martiaux ; Do ; Kailindo.
 Guerre				 <- Stratégie ; Guerre ; Commandement (donner des ordres sur le champ de bataille)
 Mêlée				 <- Mêlée
 
@@ -11,21 +11,18 @@ Résistance			 <- Nouveau
 Survie				 <- Survie ; Animaux
 
 
-Liste des artisanats	Les anciens artisanats et connaissances techniques restent inchangées dans un premier temps, mais
-Artisanat Terre		ils deviennent rapidement obsolètes dans Recréation.
-Artisanat Air		Il faut les échanger contre des méthodes plus fondamentales, plus liées aux primordiaux.
-Artisanat Eau		Pour les exaltés, la conversion des anciennes méthodes pour les nouvelles est gratuite.
-Artisanat Feu		Cependant, les nouvelles technologies ne fonctionneront pas Sur Recréation tant qu'Autochton n'aura pas été réveillé
-Artisanat Bois		et libéré de Celle-Qui-vit-En-Son-Nom, seulement dans le Seuil!
-Artisanat Métal		(cela fonctionnerait si Celle-Qui-Vit-En-Son-Nom avait la maîtrise des pôles élémentaires)
-Artisanat Cristal	Tant que cette condition n'aura pas été remplie, les anciens savoirs technologiques resteront tels quels,
-Artisanat Vapeur	'en attente'.
-Artisanat Foudre	Contrairement à Exalté, Artisanat Technomagie disparaît, refondu dans les 6 artisanats d'Autochton.
-Artisanat Pétrole	
-Artisanat Fumée		Anciennes compétences : Artisanat ; Technologie ; Mécanique ; Ordinateur ; Science ; Biotechnologie ; Hypertechnologie ;
-Artisanat Vitriol	Démolition ; Pharmacopée / Poisons
-Artisanat Destin	
-Artisanat [Nécromancie]	
+Liste des artisanats Anciens	Liste des compétences du monde des ténèbres	Liste des Artisanats de Recréation
+Artisanat Terre			Artisanat					Artisanat Gaïa (Terre, Air, Eau, Feu, Bois et Jade)
+Artisanat Air			Technologie					Artisanat Malfeas (Vitriol)
+Artisanat Eau			Mécanique					Artisanat Outremonde (Cendres, Os, Sang, Corpus et Acier de l'âme)
+Artisanat Feu			Ordinateur					Artisanat Autochton (Cristal, Foudre, Métal, Pétrole, Fumée, Vapeur et Adamante)
+Artisanat Bois			Science						Artisanat Kaos (Glamour et Grâce)
+Artisanat Vitriol		Biotechnologie					Artisanat Céleste (Ambroisie, Orichalque, Métal Stellaire et Argent de Lune)
+Artisanat Destin		Hypertechnologie
+Artisanat Nécrotech		Démolition
+Artisanat Glamour		Pharmacopée / Poisons
+Artisanat Génesis
+Les artisanats 
 
 Investigation			 <- Investigation ; Empathie ; Recherche ; Chercher ; Torture
 Médecine			 <- Médecine
@@ -41,7 +38,7 @@ Larcin				 <- Larcin ; Sécurités
 Bureaucratie			 <- Finance ; Politique ; Loi
 Equitation			 <- Conduite ; Jetpack ; Equitation : Ce qui se conduit seul
 Linguistique			 <- Linguistique ; Cryptographie
-Navigation			 <- Conduite de véhicules trop imposants pour être manipulés seuls
+Navigation			 <- Bateaux ; Avions : Conduite de véhicules trop imposants pour être manipulés seuls
 Savoir-Vivre			 <- Etiquette ; Expérience de la Rue ; Médias
 
 Compétences idiotes		 <- Blantancy ; Carousing ; Séduction ; Hobby
