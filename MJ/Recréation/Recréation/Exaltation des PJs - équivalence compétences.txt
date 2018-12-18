@@ -1,7 +1,7 @@
 Archerie 'aka Tir'		 <- Arc ; Armes à Feu ; Armes à Energie ; Armes de Guerre : toutes les armes du fantassin.
 Armes de Jet 'aka Ballistique'	 <- Frondes ; Couteaux (lancer) ; grenades ; Mortiers ; canon : toutes les armes d'artillerie.
 Arts Martiaux			 <- Bagarre ; Arts martiaux ; Do ; Kailindo.
-Guerre				 <- Stratégie ; Guerre ; Commandement (donner des ordres sur le champ de bataille)
+Guerre				 <- Stratégie ; Guerre ; Commandement (coordonner les gens sur le champ de bataille)
 Mêlée				 <- Mêlée
 
 Force d'Âme			 <- Nouveau
@@ -10,19 +10,21 @@ Représentation			 <- Représentation ; Art
 Résistance			 <- Nouveau
 Survie				 <- Survie ; Animaux
 
-
-Liste des artisanats Anciens	Liste des compétences du monde des ténèbres	Liste des Artisanats de Recréation
-Artisanat Terre			Artisanat					Artisanat Gaïa (Terre, Air, Eau, Feu, Bois et Jade)
-Artisanat Air			Technologie					Artisanat Malfeas (Vitriol)
-Artisanat Eau			Mécanique					Artisanat Outremonde (Cendres, Os, Sang, Corpus et Acier de l'âme)
-Artisanat Feu			Ordinateur					Artisanat Autochton (Cristal, Foudre, Métal, Pétrole, Fumée, Vapeur et Adamante)
-Artisanat Bois			Science						Artisanat Kaos (Glamour et Grâce)
-Artisanat Vitriol		Biotechnologie					Artisanat Céleste (Ambroisie, Orichalque, Métal Stellaire et Argent de Lune)
+Artisanat:
+Liste des artisanats Anciens	Liste des compétences MdT	Liste des Artisanats de Recréation
+Artisanat Terre			Artisanats			Artisanat Gaïa (spécialités Terre, Air, Eau, Feu, Bois ; matériau magique les 5 jades)
+Artisanat Air			Technologie			Artisanat Malfeas (spécialités Vitriol, Bronze Malféen,...)
+Artisanat Eau			Mécanique			Artisanat Outremonde (spécialités Cendres, Os, Sang, Corpus; matériau magique l'Acier de l'âme)
+Artisanat Feu			Ordinateur			Artisanat Autochton (spécialités Cristal, Foudre, Métal, Pétrole, Fumée, Vapeur ; matériau magique l'Adamante)
+Artisanat Bois			Science				Artisanat Kaos (spécialités Glamour et Coeur, Coupe, Bâton, Anneau et Epée)
+Artisanat Vitriol		Biotechnologie			Artisanat Céleste (spécialités Ambroisie et Destin; matériaux magiques Orichalque, Métal Stellaire et Argent de Lune)
 Artisanat Destin		Hypertechnologie
 Artisanat Nécrotech		Démolition
 Artisanat Glamour		Pharmacopée / Poisons
 Artisanat Génesis
-Les artisanats 
+Les artisanats de Création sont trop touffus et ne simplifient absolument pas les choses par rapport au système déjà très complexe du mdt. Je voulais quelque chose qui reste dans le thème "compétences larges et aglutinantes". Il y a donc une compétence par domaine d'existence. Les PJ peuvent se spécialiser dans l'un ou l'autre des éléments associés, auquel cas la spécialité sera pris en compte quant on comparera la taille du projet avec les compétences du PJ.
+	Exemple: Nina veut construire la forteresse capitale de sa secte! Son projet est ha-lu-cin-nant et grandiose. Un tel projet ne peut que demander 6 en Artisanat Gaïa. Or, Nina n'a que 3 ; ce 	projet semble hors de portée pour l'instant. Heureusement, Nina est hyper-calée en architecture, donc elle a une spécialité Terre à 3 points. 3 (Artisanat Gaïa) + 3 (spécialité Terre) = une 	compétence effective de 6 pour tous les projets liés à l'élément Terre de Gaïa et surtout l'architecture. Sauvé ! Nina poura commencer son projet.
+Attention, les projets faisant intervenir lourdement le matériau magique associé au royaume d'existence sont plus exigeants et les spécialités éventuelles qui pourraient intervenir ne sont pas comptés.
 
 Investigation			 <- Investigation ; Empathie ; Recherche ; Chercher ; Torture
 Médecine			 <- Médecine
@@ -38,6 +40,7 @@ Larcin				 <- Larcin ; Sécurités
 Bureaucratie			 <- Finance ; Politique ; Loi
 Equitation			 <- Conduite ; Jetpack ; Equitation : Ce qui se conduit seul
 Linguistique			 <- Linguistique ; Cryptographie
+Chaque points en linguistique permet maintenant d'aprendre non pas une seule langue, mais bien un groupe de langue associé à une civilisation (européenne, extrême-oriental, indienne, sahélienne,...) ou bien une langue ésotérique (langue des esprits, langue des morts, langue Garou...)
 Navigation			 <- Bateaux ; Avions : Conduite de véhicules trop imposants pour être manipulés seuls
 Savoir-Vivre			 <- Etiquette ; Expérience de la Rue ; Médias
 
