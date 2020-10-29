@@ -1,7 +1,7 @@
 Chronologie des évènements autour de Céleste entre le retour de celle-ci sur l'île bénie et la disparition de l'Impératrice: passage de 60 ans au moins.
 Jouer 10 épisodes?
 
-- retour sur l'ïle bénie, intéractions avec ses proches.
+- retour sur l'île bénie, intéractions avec ses proches.
 
 Au début de chaque épisode, introduction avec passage en accéléré avec des accroches que Julie peut traiter rapidement ou que l'on peut jouer en prenant tout l'épisode pour ce faire. Julie peut aussi me demander d'avancer l'un des chantiers qu'elle a défini. C'est à Julie de décider quelle direction elle prend. Une fois les épisodes tous résolus et dûment notifiés, on fera un point pour brosser un tableau de l'avancement de Julie et des ressources qu'elle a développé.
 Il faut que le deuxième épisode soit spécial, préparer une liste un peu plus mystique. À la fin de cet épisode, Julie passera à 5 de quintessence permanente.
@@ -9,11 +9,15 @@ Il faut que le deuxième épisode soit spécial, préparer une liste un peu plus
 10 points d'expériences après chaque tableau et 10 points d'expériences par tableaux joués à la fin de la série, plus l'accès au 6ème point de quintessence! Et aussi on fera un compte-rendu fidèle de ses historiques, avant d'engager la partie suivante de la campagne.
 Episode 1:
 - Tonton Rokujai: Il y a du boulot pour assainir un certain nombre de bordels. La main de la limace n'est pas loin.
-- Marieuse(Belar): Un couple de maumarié est en train de se former contre l'avis de la famille.
+ Réaction: accéléré. Jouer à la cruche pour mieux observer les réactions et les duplicités de tout le monde, puis faire le ménage un grand coup!
 - Ejava: sur l'Île pas forcément pour très longtemps encore, si elle veut placer des pions, il va falloir se dépêcher.
+ Réaction: joué. Zia lui envoie des médecins apprentis auprès d'Ambre Amer et ammène Gyrfalcon pour qu'il forme quelques irréguliers. Continuer. corrompre des officiers supérieurs?
 - Dhûn: il doit commencer à arroser les fonctionnaires impériaux pour faire avancer son nom pour le prochain siège de sénateur.
+ Réaction: acéléré.
 - Bras de la Multitude: fait des siennes dans le Nord, Zia peut reconnaître sa trace à travers un certain nombre d'actes. Ne peut pas vraiment intervenir à priori.
-- Amilar: Il prend possession de son nouveau "métier", de ses quartiers et de son environnement. Il semble désireux dans un premier temps de se consacrer à ses études et de ne pas être dérangé.
+- Amilar: Il prend possession de son nouveau "métier", de ses quartiers et de son environnement. Il semble désireux dans un premier temps de se consacrer à ses études et de ne pas être dérangé. + Aller voir le domaine de la montagne impériale avec lui pour qu'il s'installe et l'améliore.
+- Phagocyter la maison Tepet: Zia propose d'organiser un maximum de mariage entre la famille Cynis et ce qu'il reste de la famille Tepet pour récupérer une influence majeure dans cette Grande Maison. Doit en parler avec Belar. 
+- influence de Zia auprès d'Ejava: Fournir des hommes pour sa légion; Lui suggérer d'enquêter sur Tepet Lisara, qui s'est réfugié à ChuteGrise; Un mari? Le présenter à Cynis Denova Avaku...
 
 
 Interlude: accouchement.
@@ -22,7 +26,7 @@ Interlude: accouchement.
 - Rokujai (7 à 9)
 - Mond (10)
 
-1 lancer de d100 pour déterminer ses parrains:
+1 lancer de d100 pour déterminer son parrain:
 - Malfeas (Beauté démoniaque) (93 à 100)
 - Ligier (ultra-charismatique) (85 à 92)
 - Kagami (grande clairvoyance) (69 à 84)
@@ -34,7 +38,7 @@ Interlude: accouchement.
 - Personne (1 à 11)
 
 1 lancer de d100 pour déterminer si il exaltera ou non:
-- Exalté solaire (Malfeas, 91 à 100) (Ligier, 96 à 100) (la Fort ou Makarios, 98 à 100) (sinon, 100)
+- Exalté solaire (Malfeas, 91 à 100) (Ligier, 96 à 100) (le Fort ou Makarios, 98 à 100) (sinon, 100)
 - Sang-de-dragon (Mond père, 51 à 90) (Rokujai père, 60 à 90) (Dhûn père, 75  à 90)
 - Exalté lunaire (Malfeas,  41 à 50) (le Vif, 48 à 50) (sinon, 50)
 - Exalté sidéral (Kagami, 36 à 40) (Stanewald, 38 à 40) (sinon, 40)
@@ -48,3 +52,4 @@ Ne pas oublier d'envisager la naissance d'autre enfants durant l'ellipse.
 Episode 2:
 Imposé.
 L'impératrice écarlate envoie par le biais de son administration un message demandant à la préfecture de Lamkaët de se préparer à... son passage! Zia voudra-t-elle rester, ou est-ce l'occasion de partir en voyage?
+Zia reste afin de récolter un maximum d'information sur l'Impératrice.

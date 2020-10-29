@@ -1,0 +1,20 @@
+Main Verte
+Coût: - Type: Permanent
+Prérequis: Survie 6, Quintessence 6
+Les donneurs de loi sont l'epitomê des compétences humaines, dans la guerre comme dans la paix.
+Ce charme donne la pleine mesure des compétences botaniques.
+Le solaire devient fabuleusement capable de faire pousser toutes sorts de plantes et d'élever les animaux, de sorte que tous lieux où il s'arrête endant au moins 1 mois devient surnaturellement luxuriant.
+Tout lieu ou le solaire reste au moins une saison commence à porter toute sorte de fruits exotiques et utile pour l'artisanat magique en générale (soiecier par exemple). Le joueur du solaire est invité à inventer de nouveaux produits pour mettre en exergue cette luxuriance.
+Enfin, tout lieu où le solaire reste au moins un an commence à produire du jade, d'une manière jugé corrct par le mj et le joueur (pommes, baies, humus,...)
+
+
+Eden Primordiale
+Coûte: 20a., 1v. Type: Simple, sorcellerie, Modelage
+Durée: une scène
+Prérequis: Survie 7, Quintessence 7
+Toute ayant ne serait-ce qu'une fois observé toute la majesté et la luxuriante puissance du pôle de bois ne peut que s'écraser devant un tel spectacle. Il est naturel que les capacités de modelage de Création par les solaires puissent s'exprimer de la même manière.
+Le solaire fait apparaît autour de lui, dans un rayon englobant une unité militaire au plus égal à (sa quintessence) magnitude, les conditions exactes de survie proche du pôle élémentaire du bois:
+- mutations accélérés,
+- dégâts environnementaux,
+- essences de plantes et d'animaux rares voire uniques,
+...

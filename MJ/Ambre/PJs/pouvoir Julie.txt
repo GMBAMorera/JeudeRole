@@ -1,0 +1,37 @@
+Caracteristiques(200):          à 60%:
+Psyché:                50         30 (VII)
+Stratégie:             50         30 (VII)
+Vivacité:              50         30 (VII)
+Vigueur:               50         30 (VII)
+
+Modelage partiel (Vivacité): 10 transformation du visage, des mains de la voix,...
+Modelage de la corpulence (Vigueur): 10
+Modelage psychique (Psyché):
+Formes alternées:
++Transformation en bête (Vigueur): 10
++Augmentation des sens: 5
+Vol:
+
+Transformation partielle en matière (Stratégie):
++Transformation en objet/matière (Stratégie): 10
+
++Régénération: 5
+Guérisseur:
+Métabolisme exceptionnel:
+
+Arme du peuple Bahrimen:
+Armure:
+
+Atout(carnet de voyage):
+
+Compétences
++Furtivité: 5
++Observation: 5
++Poison: 5
++Larcin: 5
++Duo de Saï avec option chaîne pour les rassembler: 5
++Equitation: 5
++Athlétisme: 5
++Acrobaties: 5
++Empathie: 5
++Mensonge: 5
